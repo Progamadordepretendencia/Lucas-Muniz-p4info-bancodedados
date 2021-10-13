@@ -1,0 +1,10 @@
+Defina o que é :
+]1) Dado
+Dados são o valor armazenado fisicamente num banco de dados, eles são expressões gerais que descrevem características das entidades sobre as quais operam os algoritmos. 
+Cujas as expressões devem ser mostradas de maneira a que possam ser tratadas por um APi.
+2) Informação
+É a reunião dos dados processados por um computador
+3) Arquivo Convencional
+é uma maneira de organizar os dados.
+4) Banco de Dados
+ É um conjunto de dados organizados e armazenados, que se relacionam para formar um registro ou agrupamento de conteúdos específicos. Que visam a uma comunidade de devs ou usuários.
