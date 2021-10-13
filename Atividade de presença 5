@@ -1,0 +1,18 @@
+Quanto a cardinalidade que define um relacionamento, pede-se:
+a) Exemplifique e conceitue Cardinalidade Máxima e Cardinalidade Mínima
+A cardinalidade máxima, expressa o número máximo de ocorrências de determinada entidade, 
+associada a uma ocorrência da entidade em questão, através do relacionamento. A cardinalidade mínima,
+expressa o número mínimo de ocorrências de determinada entidade associada a uma ocorrência 
+da entidade em questão através do relacionamento.
+para as cardinalidades máximas, costumamos distinguir dois tipos: 1 (um) e 
+N (cardinalidades maiores que 1). Já para a as cardinalidades mínimas, 
+costumamos distinguir dois tipos: 0 (zero) e 1 (um).
+b) Explique um exemplo de uma cardinalidade 1:1;
+Associação entre marido e mulher: Um marido só pode ser associado a uma
+esposa, ele não pode ter mais de uma esposa se não ele seria preso por poligamia. Da mesma forma, uma esposa
+só pode ser associada a um marido de maneira 1 para 1.
+c) Explique um exemplo de uma cardinalidade 1:n;
+Computador e Internet, um computador so pode ser conetado a 1 internet mas 1 internet pode ser conectada a varios coputadores
+d) Explique um exemplo de uma cardinalidade n:n.
+Associação entre aluno e matéria. um aluno pode cursar mais de uma cadeira em uma faculdade ou curso mas o (n disciplinas), e uma disciplina pode ser cursada por mais de um
+aluno (n alunos).
